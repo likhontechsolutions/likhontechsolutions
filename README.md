@@ -87,12 +87,6 @@ graph TD
   <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </div>
 
-<h2 align="center">📊 This Week I Spent My Time On</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=likhontechsolutions&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
-</div>
-
 ---
 
 <p align="center">
