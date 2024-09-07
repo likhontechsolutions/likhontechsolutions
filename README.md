@@ -52,10 +52,6 @@ graph TD
 
 <img src="https://github-profile-trophy.vercel.app/?username=likhontechsolutions&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophies" width="100%">
 
-## 🧠 LeetCode Stats
-
-<img src="https://leetcode-stats-six.vercel.app/api?username=likhontechsolutions&theme=dark" alt="LeetCode Stats" width="100%">
-
 ## 🌐 Web Technologies Expertise
 
 <div align="center">
@@ -89,12 +85,6 @@ graph TD
   <img src="https://img.shields.io/badge/NVIDIA-RTX_3090-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-0071C5?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-</div>
-
-<h2 align="center">🎵 Coding to the Beat</h2>
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=likhontechsolutions&cover_image=true&theme=default&show_offline=false&background_color=121212" />
 </div>
 
 <h2 align="center">📊 This Week I Spent My Time On</h2>
