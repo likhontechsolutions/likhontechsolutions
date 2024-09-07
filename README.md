@@ -92,7 +92,3 @@ graph TD
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhontechsolutions&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
-
-<div align="center">
-  <img src="https://github.com/likhontechsolutions/likhontechsolutions/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
